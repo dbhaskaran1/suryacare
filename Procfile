@@ -1,1 +1,1 @@
-web: python suryacare/hello.py
+web: python hello.py
